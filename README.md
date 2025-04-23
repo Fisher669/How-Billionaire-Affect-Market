@@ -4,12 +4,19 @@ Some billionaires aligned with political congress members influence the stock ma
 
 ---
 
+## 🚧 TODO
+
+- [ ] Upload translated Report
+- [ ] Upload Dataset via Kaggle
+- [ ] Makeup some other NLP models
+- [ ] Imply some more sensitive indicator for market like RSI or MACD
+
 ## 🏆 Competition Info
 
 - **Competition**: 2025 (11th) National Undergraduate Statistical Modeling Competition  
 - **University**: Southwestern University of Finance and Economics  
 - **Paper Title**: *Construction of a Financial Opinion Leader Influence Evaluation Model Based on Deep Semantic Understanding — An Analysis of 270,000 Statements by Forbes Global Billionaires*  
-- **Team Members**: Jiang Minrui, Li Yu, Cheng Qihang  
+- **Team Members**: J. M., Li Yu, C. Q.  
 - **Submission ID**: xxx
 
 ---
