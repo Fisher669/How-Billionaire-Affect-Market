@@ -82,7 +82,7 @@ Some billionaires aligned with political congress members influence the stock ma
 
 If you find this work helpful, please consider citing us or giving us a ⭐ on GitHub!
 
-👉 [Edit or Star on GitHub](https://github.com/Fisher669/How-Billionaire-Affect-Market/edit/main/README.md)
+👉 [Star on GitHub](https://github.com/Fisher669/How-Billionaire-Affect-Market/)
 
 ---
 
