@@ -99,6 +99,7 @@ Special thanks to **Kaggle** for providing the sentiment dataset and for fosteri
 
 ## Citation for previous Work
 
+```txt
 [1] 洪永淼, 汪寿阳. 大数据如何改变经济学研究范式?[J]. 管理世界, 2021, 37(10): 40–55.
 [2] 姜富伟, 刘雨旻, 孟令超. 大语言模型、文本情绪与金融市场[J]. 管理世界, 2024, 40(8): 42–64.
 [3] 林建浩, 孙乐轩. 大语言模型与经济金融文本分析: 基本原理、应用场景与研究展望[J]. 计量经济学报, 2025, 5(1): 1–34.
@@ -122,4 +123,5 @@ Special thanks to **Kaggle** for providing the sentiment dataset and for fosteri
 [21] ROZEMBERCZKI B, WATSON L, BAYER P, et al. The Shapley value in machine learning[J/OL]. arXiv preprint arXiv:2202.05594, 2022 [2025-04-20]. https://arxiv.org/abs/2202.05594.
 [22] WU L, HOI S C H, YU N. Semantics-preserving bag-of-words models and applications[J]. IEEE Transactions on Image Processing, 2010, 19(7): 1908–1920. DOI:10.1109/TIP.2010.2045169.
 [23] YAO J Y, NING K P, LIU Z H, et al. LLM lies: Hallucinations are not bugs, but features as adversarial examples[J/OL]. arXiv preprint arXiv:2310.01469, 2023 [2025-04-20]. https://arxiv.org/abs/2310.01469.
+```
 
